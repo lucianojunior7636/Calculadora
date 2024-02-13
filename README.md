@@ -5,32 +5,33 @@ Esta caclculadora feita em python permite calcular 31 tipos de operações difer
 1 - Soma 
 <br>
 2 - Subtração
-3 - Multiplicação
-4 - Divisão
-5 - Potenciação
-6 - Radiciação
-7 - Logaritmo
-8 - Fatorial
-9 - Valor Absoluto
-10 - Funções Trigonométricas (seno, cosseno, tangente, etc.)
-11 - Arredondamento
-12 - Média
-13 - Desvio Padrão
-14 - Conversão de Unidades
-15 - Juros Simples
-16 - Juros Compostos
-17 - Raiz Cúbica
-18 - Exponencial
-19 - Módulo (resto da divisão)
-20 - Média Ponderada
-21 - Potência de 10 (notação científica)
-22 - Inverso (recíproco)
-23 - Número de Euler (constante matemática e)
-24 - Logaritmo Natural (logaritmo na base e)
-25 - Combinação (número de combinações)
-26 - Permutação (número de permutações)
-27 - Conjugado Complexo
-28 - arte Imaginária
-29 - Parte Real
-30 - Cotangente
-31 - expressões numéricas
+<br>
+3 - Multiplicação<br>
+4 - Divisão<br>
+5 - Potenciação<br>
+6 - Radiciação<br>
+7 - Logaritmo<br>
+8 - Fatorial<br>
+9 - Valor Absoluto<br>
+10 - Funções Trigonométricas (seno, cosseno, tangente, etc.)<br>
+11 - Arredondamento<br>
+12 - Média<br>
+13 - Desvio Padrão<br>
+14 - Conversão de Unidades<br>
+15 - Juros Simples<br>
+16 - Juros Compostos<br>
+17 - Raiz Cúbica<br>
+18 - Exponencial<br>
+19 - Módulo (resto da divisão)<br>
+20 - Média Ponderada<br>
+21 - Potência de 10 (notação científica)<br>
+22 - Inverso (recíproco)<br>
+23 - Número de Euler (constante matemática e)<br>
+24 - Logaritmo Natural (logaritmo na base e)<br>
+25 - Combinação (número de combinações)<br>
+26 - Permutação (número de permutações)<br>
+27 - Conjugado Complexo<br>
+28 - arte Imaginária<br>
+29 - Parte Real<br>
+30 - Cotangente<br>
+31 - expressões numéricas<br>
