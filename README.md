@@ -3,6 +3,7 @@
 Esta caclculadora feita em python permite calcular 31 tipos de operações diferentes sendo uma calculadora muito completa:
 
 1 - Soma 
+<br>
 2 - Subtração
 3 - Multiplicação
 4 - Divisão
